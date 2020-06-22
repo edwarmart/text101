@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac65bf71375da242a9ff09c23962f68, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "The large wooden doors creak as they swing on the ancient metal hinges,
+    revealing the large, empty stone interior of the ancient temple. In the center, 
+    you suddenly make out two pillars; one with a floating transparent crystal floating
+    above it, and another of the same design but with nothing floating above.\r\nIt
+    becomes apparent to you that you, at some point, must have walked between these
+    two pillars because you have found yourself there. \r\n\r\n1. Choose the pillar
+    with the transparent crystal floating above it.\r\n2. Choose the other pillar.\r\n3.
+    Look Behind."
