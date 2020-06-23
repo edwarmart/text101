@@ -20,3 +20,6 @@ MonoBehaviour:
     two pillars because you have found yourself there. \r\n\r\n1. Choose the pillar
     with the transparent crystal floating above it.\r\n2. Choose the other pillar.\r\n3.
     Look Behind."
+  nextStates:
+  - {fileID: 11400000, guid: 299db7e489ffd56478b96419602d68d4, type: 2}
+  - {fileID: 11400000, guid: 859c8aaafe84adf41a6009ef0be8a782, type: 2}
